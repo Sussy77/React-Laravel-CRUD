@@ -1,0 +1,6 @@
+.label-activo {
+  @apply bg-lime-300 text-white text-sm rounded-lg px-1;
+}
+.label-inactivo {
+  @apply bg-red-950 text-white text-sm rounded-lg px-1;
+}
